@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//a[normalize-space()='Sign In'])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> name: send]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li//span[text()='Jackets'])[last()]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//*[contains(@class,'product name')]//a)[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-size')])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-color')])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: product-addtocart-button]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li//span[text()='Pants'])[last()]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//*[contains(@class,'product name')]//a)[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-size')])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-color')])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: product-addtocart-button]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: //*[@class='action showcart']']]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.id: top-cart-btn-checkout']]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[text()='New Address']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: shipping-save-in-address-book]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[text()='Ship here']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[@value='tablerate_bestway']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[@data-role='opc-continue']]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: //*[@class='action primary checkout']']]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li[@class='customer-welcome']//*[@class='action switch'])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//a[text()='My Account'])[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: (//a[text()='My Orders'])[1]']]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-05T12:53:56Z" name="Suite" finished-at="2023-02-05T13:01:51Z" duration-ms="475254">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.magento.framework.runner.CreateOrderRunner@6b09fb41]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-02-05T12:53:56Z" name="Test - 1" finished-at="2023-02-05T13:01:51Z" duration-ms="475254">
+      <class name="com.magento.framework.runner.CreateOrderRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.magento.framework.runner.CreateOrderRunner@6b09fb41]" started-at="2023-02-05T18:23:56Z" name="setUpClass" finished-at="2023-02-05T18:23:56Z" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.magento.framework.runner.CreateOrderRunner@6b09fb41]" started-at="2023-02-05T18:23:56Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2023-02-05T18:31:51Z" duration-ms="474724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Create & Validate Order]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//a[normalize-space()='Sign In'])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> name: send]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li//span[text()='Jackets'])[last()]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//*[contains(@class,'product name')]//a)[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-size')])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-color')])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: product-addtocart-button]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li//span[text()='Pants'])[last()]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//*[contains(@class,'product name')]//a)[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-size')])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//div[contains(@id,'option-label-color')])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: product-addtocart-button]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: //*[@class='action showcart']']]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.id: top-cart-btn-checkout']]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[text()='New Address']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> id: shipping-save-in-address-book]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[text()='Ship here']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[@value='tablerate_bestway']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: //*[@data-role='opc-continue']]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: //*[@class='action primary checkout']']]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//li[@class='customer-welcome']//*[@class='action switch'])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on [[ChromeDriver: chrome on XP (f5f57f38a6e1b7f1c17ed4e12fc8cf9e)] -> xpath: (//a[text()='My Account'])[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Proxy element for: AjaxElementLocator 'By.xpath: (//a[text()='My Orders'])[1]']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.magento.framework.runner.CreateOrderRunner@6b09fb41]" started-at="2023-02-05T18:31:51Z" name="tearDownClass" finished-at="2023-02-05T18:31:51Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.magento.framework.runner.CreateOrderRunner -->
+    </test> <!-- Test - 1 -->
+  </suite> <!-- Suite -->
+</testng-results>
